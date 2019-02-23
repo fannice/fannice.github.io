@@ -2,63 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fannice.github.io/2016/09/03/hexo-next-one/</loc>
+    <loc>https://fannice.github.io/about/index.html</loc>
     
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/06/25/css-hack/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
+    <lastmod>2019-02-23T07:49:43.741Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fannice.github.io/2017/07/15/hexo-next-five/</loc>
+    <loc>https://fannice.github.io/2018/09/25/essay-20160925/</loc>
     
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/12/15/hexo-next-four/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
+    <lastmod>2019-02-23T05:21:57.785Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fannice.github.io/2018/10/15/hexo-next-six/</loc>
+    <loc>https://fannice.github.io/2018/12/24/why-introversion-like-alone/</loc>
     
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/11/11/hexo-next-three/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
+    <lastmod>2019-02-23T05:19:44.308Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fannice.github.io/2017/01/18/html5shiv/</loc>
+    <loc>https://fannice.github.io/2018/04/10/npm/</loc>
     
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/02/28/memory-leak/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
+    <lastmod>2019-02-23T05:16:54.274Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://fannice.github.io/2017/05/20/npm-two/</loc>
+    
+    <lastmod>2019-02-23T05:16:48.746Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/02/28/memory-leak/</loc>
+    
+    <lastmod>2019-02-23T05:16:27.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/06/01/js-this/</loc>
+    
+    <lastmod>2019-02-23T05:16:13.752Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/02/18/js-memory-management-and-gc/</loc>
+    
+    <lastmod>2019-02-23T05:15:40.141Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/01/18/html5shiv/</loc>
+    
+    <lastmod>2019-02-23T05:15:16.789Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/10/16/how-it-feels-to-learn-javascript-in-2016/</loc>
+    
+    <lastmod>2019-02-23T05:15:01.312Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/09/30/hexo-next-two/</loc>
+    
+    <lastmod>2019-02-23T05:14:57.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/11/11/hexo-next-three/</loc>
+    
+    <lastmod>2019-02-23T05:14:51.099Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/09/03/hexo-next-one/</loc>
+    
+    <lastmod>2019-02-23T05:14:41.697Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/12/15/hexo-next-four/</loc>
+    
+    <lastmod>2019-02-23T05:14:37.615Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/07/15/hexo-next-five/</loc>
+    
+    <lastmod>2019-02-23T05:14:22.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/03/07/commonjs/</loc>
+    
+    <lastmod>2019-02-23T05:13:40.605Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/11/18/china-javascript-environment/</loc>
+    
+    <lastmod>2019-02-23T05:13:36.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fannice.github.io/2018/07/20/yarn/</loc>
     
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     
@@ -72,140 +135,14 @@
   </url>
   
   <url>
-    <loc>https://fannice.github.io/2017/06/08/service-worker/</loc>
+    <loc>https://fannice.github.io/tags/index.html</loc>
     
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fannice.github.io/2018/05/01/vue-music/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2018/06/18/vue-prerender/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/11/11/vue-sell/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/12/24/why-introversion-like-alone/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/02/14/why-we-dropped-zepto/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/03/20/amd-cmd/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/11/18/china-javascript-environment/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/03/07/commonjs/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/09/25/essay-20160925/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/09/30/hexo-next-two/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/02/18/js-memory-management-and-gc/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2018/06/01/js-this/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/11/22/use-jquery-skill/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2018/07/20/yarn/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/10/07/git/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/05/01/gulp/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2017/04/10/npm/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/10/23/sass/</loc>
-    
-    <lastmod>2018-10-20T07:46:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fannice.github.io/2016/10/16/how-it-feels-to-learn-javascript-in-2016/</loc>
+    <loc>https://fannice.github.io/2018/10/15/hexo-next-six/</loc>
     
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     
@@ -226,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://fannice.github.io/about/index.html</loc>
+    <loc>https://fannice.github.io/2016/11/22/use-jquery-skill/</loc>
     
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     
@@ -254,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://fannice.github.io/tags/index.html</loc>
+    <loc>https://fannice.github.io/weblog/index.html</loc>
     
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fannice.github.io/weblog/index.html</loc>
+    <loc>https://fannice.github.io/2016/10/07/git/</loc>
     
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     

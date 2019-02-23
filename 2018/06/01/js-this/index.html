@@ -98,7 +98,7 @@
 
 
 在绝大多数情况下，函数的调用方式决定了 this">
-<meta property="og:updated_time" content="2018-10-20T07:46:51.000Z">
+<meta property="og:updated_time" content="2019-02-23T05:16:13.752Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="关于 JavaScript 中 this 的详细总结">
 <meta name="twitter:description" content="在 JavaScript 中，函数中的 this 指向，很多同学总是理不清楚【这必然会带来一些问题】。确实，JavaScript 中，函数的 this 指向比较复杂多变。它和你调用的方式有关系，和 严格模式 或者 非严格模式 有关系，和你是否使用了箭头函数有关系，和你在使用函数时是否传入了 this 有关系，和你是否主动修改了调用对象有关系。
@@ -153,7 +153,7 @@
 
   <div class="container one-collumn sidebar-position-left page-post-detail ">
     <div class="headband"></div>
-
+     <a href="https://fannice.githu.io" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#70B7FD; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-meta ">
   
@@ -165,7 +165,7 @@
       <span class="logo-line-after"><i></i></span>
     </a>
   </div>
-  <p class="site-subtitle">认真的人才有资格开玩笑</p>
+  <p class="site-subtitle">道可道非常，名可名非常名</p>
 </div>
 
 <div class="site-nav-toggle">
@@ -219,16 +219,6 @@
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
             
             标签
-          </a>
-        </li>
-      
-        
-        <li class="menu-item menu-item-guestbook">
-          <a href="/guestbook" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-commenting"></i> <br />
-            
-            留言
           </a>
         </li>
       
@@ -586,7 +576,7 @@
         <p id="div-border-top-blue">在 JavaScript 中，函数中的 this 指向，很多同学总是理不清楚【这必然会带来一些问题】。确实，JavaScript 中，函数的 this 指向比较复杂多变。它和你调用的方式有关系，和 <strong>严格模式</strong> 或者 <strong>非严格模式</strong> 有关系，和你是否使用了箭头函数有关系，和你在使用函数时是否传入了 this 有关系，和你是否主动修改了调用对象有关系。</p>
 
 <ul>
-<li>在绝大多数情况下，函数的调用方式决定了 <code>this</code> 的值。<code>this</code> 不能再执行期间被赋值，并且在每次函数被调用时 <code>this</code> 的值也可能会不同。<code>ES5</code> 引入了 <code>bind</code> 方法来设置函数的 <code>this</code> 值，<a href="https://blog.csdn.net/csdn_yudong/article/details/78730844" target="_blank" rel="external">关于bind和call可以看我的文章</a>，而不用考虑函数如何被调用的，<code>ES2015</code> 引入了支持 <code>this</code> 词法解析的箭头函数（它在闭合的执行上下文内设置 <code>this</code> 的值）。</li>
+<li>在绝大多数情况下，函数的调用方式决定了 <code>this</code> 的值。<code>this</code> 不能再执行期间被赋值，并且在每次函数被调用时 <code>this</code> 的值也可能会不同。<code>ES5</code> 引入了 <code>bind</code> 方法来设置函数的 <code>this</code> 值，，而不用考虑函数如何被调用的，<code>ES2015</code> 引入了支持 <code>this</code> 词法解析的箭头函数（它在闭合的执行上下文内设置 <code>this</code> 的值）。</li>
 </ul>
 <ul>
 <li>与其他语言相比，<strong>函数的 <code>this</code> 关键字</strong>在 <code>JavaScript</code> 中的表现略有不同，此外，在 严格模式 和 非严格模式之间也会有一些差别。</li>
@@ -638,7 +628,7 @@
 
       
     </div>
-
+    
     <div>
       
         
@@ -657,7 +647,7 @@
   <span id="inline-green" style="border-radius:3px;">作者</span>：<a class="link-blue" href="https://github.com/Neveryu" target="_blank">Neveryu</a><br/>有问题请 <a class="link-blue" href="https://neveryu.github.io/guestbook" target="_blank">留言</a> 或者私信我的 <a class="link-blue" href="http://weibo.com/Neveryu" target="_blank">微博</a>。
 
   <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
-    <div>满分是10分的话，这篇文章你给几分</div>
+    <div>您的满意，就是我的动力</div>
     <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
       <span>赏</span>
     </button>
@@ -689,16 +679,16 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/05/01/vue-music/" rel="next" title="vue2.x 做一个音乐app">
-                <i class="fa fa-chevron-left"></i> vue2.x 做一个音乐app
+              <a href="/2018/04/10/npm/" rel="next" title="npm 全面介绍">
+                <i class="fa fa-chevron-left"></i> npm 全面介绍
               </a>
             
           </div>
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2018/06/18/vue-prerender/" rel="prev" title="Vue 服务端渲染 or 预渲染">
-                Vue 服务端渲染 or 预渲染 <i class="fa fa-chevron-right"></i>
+              <a href="/2018/07/15/hexo-next-five/" rel="prev" title="Hexo-NexT搭建个人博客（五）">
+                Hexo-NexT搭建个人博客（五） <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -785,7 +775,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">30</span>
+              <span class="site-state-item-count">21</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
@@ -802,7 +792,7 @@
           
             <div class="site-state-item site-state-tags">
               <a href="/tags">
-                <span class="site-state-item-count">15</span>
+                <span class="site-state-item-count">8</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -818,12 +808,20 @@
             </a>
           </div>
         
-
+   <body>
+ <link rel="stylesheet" href="/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script type="text/javascript" src="/dist/APlayer.min.js"></script>
+<script type="text/javascript" src="/dist/music.js"></script>
+<body>
         <div class="links-of-author motion-element">
+          
+
+
           
             
               <span class="links-of-author-item">
-                <a href="https://github.com/Neveryu" target="_blank" title="Github">
+                <a href="https://github.com/fannice/fannice.github.io" target="_blank" title="Github">
                   
                     <i class="fa fa-fw fa-github"></i>
                   
@@ -832,11 +830,11 @@
               </span>
             
               <span class="links-of-author-item">
-                <a href="http://weibo.com/Neveryu" target="_blank" title="Weibo">
+                <a href="https://www.hefannice.cn" target="_blank" title="个人网站">
                   
-                    <i class="fa fa-fw fa-weibo"></i>
+                    <i class="fa fa-fw fa-globe"></i>
                   
-                  Weibo
+                  个人网站
                 </a>
               </span>
             
@@ -866,15 +864,7 @@
                 </li>
               
                 <li class="links-of-blogroll-item">
-                  <a href="/weblog" title="建站日志" target="_blank">建站日志</a>
-                </li>
-              
-                <li class="links-of-blogroll-item">
-                  <a href="http://blog.csdn.net/csdn_yudong" title="CSDN" target="_blank">CSDN</a>
-                </li>
-              
-                <li class="links-of-blogroll-item">
-                  <a href="www.fannice.cn" title="个人首页" target="_blank">个人首页</a>
+                  <a href="https://www.fannice.cn" title="个人首页" target="_blank">个人首页</a>
                 </li>
               
             </ul>
@@ -926,7 +916,10 @@
 
 
 
-        <div class="copyright" >
+        
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<div class="copyright" >
   
   &copy;  2016 - 
   <span itemprop="copyrightYear">2019</span>
@@ -949,7 +942,7 @@
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count" style="color: #e90f92;">全站共 131k 字</span>
+  <span class="post-count" style="color: #e90f92;">全站共 91k 字</span>
 </div>
         
       </div>
