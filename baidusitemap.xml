@@ -4,6 +4,7 @@
 
     
     
+    
   <url>
     <loc>https://fannice.github.io/2018/09/25/essay-20160925/</loc>
     <lastmod>2019-02-23T05:21:57.785Z</lastmod>
@@ -339,19 +340,19 @@
 
     
   <url>
-    <loc>https://fannice.github.io/2018/07/20/yarn/</loc>
+    <loc>https://fannice.github.io/2016/10/07/git/</loc>
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     <data>
         <display>
-        <title>Yarn安装与使用详细介绍</title>
-        <pubTime>2018-07-19T19:25:24.000Z</pubTime>
+        <title>Git学习总结</title>
+        <pubTime>2016-10-07T05:25:24.000Z</pubTime>
         
-        <tag>Yarn</tag>
+        <tag>Git</tag>
          
          
            
              
-              <breadCrumb title="前端" url="https://fannice.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+              <breadCrumb title="综合" url="https://fannice.github.io/categories/%E7%BB%BC%E5%90%88/"/>
           
         </display>
     </data>
@@ -378,23 +379,20 @@
     </url>
 
     
-    
   <url>
-    <loc>https://fannice.github.io/2018/10/15/hexo-next-six/</loc>
+    <loc>https://fannice.github.io/2018/07/20/yarn/</loc>
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo-NexT搭建个人博客（六）</title>
-        <pubTime>2018-10-15T15:25:24.000Z</pubTime>
+        <title>Yarn安装与使用详细介绍</title>
+        <pubTime>2018-07-19T19:25:24.000Z</pubTime>
         
-        <tag>Hexo</tag>
-         
-        <tag>Next</tag>
+        <tag>Yarn</tag>
          
          
            
              
-              <breadCrumb title="Hexo" url="https://fannice.github.io/categories/Hexo/"/>
+              <breadCrumb title="前端" url="https://fannice.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
           
         </display>
     </data>
@@ -427,25 +425,27 @@
     
     
     
-    
-    
   <url>
-    <loc>https://fannice.github.io/2016/10/07/git/</loc>
+    <loc>https://fannice.github.io/2018/10/15/hexo-next-six/</loc>
     <lastmod>2018-10-20T07:46:51.000Z</lastmod>
     <data>
         <display>
-        <title>Git学习总结</title>
-        <pubTime>2016-10-07T05:25:24.000Z</pubTime>
+        <title>Hexo-NexT搭建个人博客（六）</title>
+        <pubTime>2018-10-15T15:25:24.000Z</pubTime>
         
-        <tag>Git</tag>
+        <tag>Hexo</tag>
+         
+        <tag>Next</tag>
          
          
            
              
-              <breadCrumb title="综合" url="https://fannice.github.io/categories/%E7%BB%BC%E5%90%88/"/>
+              <breadCrumb title="Hexo" url="https://fannice.github.io/categories/Hexo/"/>
           
         </display>
     </data>
     </url>
 
+    
+    
 </urlset>
