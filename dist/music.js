@@ -9,15 +9,15 @@ const ap = new APlayer({
         cover: 'http://star.kuwo.cn/star/starheads/180/28/57/2182659867.jpg',
       },
       {
-        name: '火影忍者',
-        artist: '未知',
-        url: 'http://www.ytmp3.cn/down/49948.mp3',
+        name: '丑八怪',
+        artist: '薛之轩',
+        url: 'http://www.ytmp3.cn/down/35065.mp3',
         cover: 'http://img.ytmp3.cn/image/58.jpg',
       },
       {
-        name: 'THE WAY THAT I LOVED YOU-Stevie Hoang',
-        artist: '未知',
-        url: 'http://www.ytmp3.cn/down/55776.mp3',
+        name: '小苹果',
+        artist: '筷子兄弟',
+        url: 'http://www.ytmp3.cn/down/57984.mp3',
         cover: 'http://img.ytmp3.cn/image/21.jpg',
       }
     ]
